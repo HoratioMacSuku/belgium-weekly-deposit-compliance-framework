@@ -78,14 +78,14 @@ The Weekly Deposit Compliance Framework provides an automated, auditable validat
 
 ## 7. Folder Structure
 be_weekly_deposit_compliance/
-│
-├── config/ # YAML rule and threshold definitions
-├── ingestion/ # Data reader modules
-├── validation/ # Schema and threshold checks
-├── reporting/ # Compliance reports and reliability metrics
-├── audit_logs/ # Exception and audit evidence
-├── tests/ # Unit and functional tests
-└── docs/ # Regulatory notes and SOP
+
+- config/ # YAML rule and threshold definitions
+- ingestion/ # Data reader modules
+- validation/ # Schema and threshold checks
+- reporting/ # Compliance reports and reliability metrics
+- audit_logs/ # Exception and audit evidence
+- tests/ # Unit and functional tests
+- docs/ # Regulatory notes and SOP
 
 
 
